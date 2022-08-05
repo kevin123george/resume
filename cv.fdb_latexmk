@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1659690115 "c:/Users/hikev/Desktop/resume/cv.tex" "cv.pdf" "cv" 1659690115
+["pdflatex"] 1659692694 "c:/Users/hikev/Desktop/resume/cv.tex" "cv.pdf" "cv" 1659692694
   "C:/Users/hikev/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1659622026 10330429 830e853ebbfd9715625dcd60ddd82392 ""
   "C:/Users/hikev/AppData/Local/Programs/MiKTeX1/tex/generic/babel-french/french.ldf" 1650731729 67664 32f868aa16739ff015c100ad6b5b5ebc ""
   "C:/Users/hikev/AppData/Local/Programs/MiKTeX1/tex/generic/babel/babel.sty" 1656236434 151254 6babc5fd35bcaab99970dd3ba17ef5b3 ""
@@ -8,6 +8,8 @@
   "C:/Users/hikev/AppData/Local/Programs/MiKTeX1/tex/generic/babel/locale/fr/babel-fr.ini" 1656236434 4338 7fbf5b0266989d0b036c3576cab350ab ""
   "C:/Users/hikev/AppData/Local/Programs/MiKTeX1/tex/generic/babel/locale/fr/babel-french.tex" 1656236434 336 f27942ba034bde85aef544115290ec5d ""
   "C:/Users/hikev/AppData/Local/Programs/MiKTeX1/tex/generic/babel/txtbabel.def" 1656236434 5233 d5e383ed66bf272b71b1a90b596e21c6 ""
+  "C:/Users/hikev/AppData/Local/Programs/MiKTeX1/tex/generic/hyph-utf8/loadhyph/loadhyph-fr.tex" 1616419947 1204 e649c79bd46c2809356fb1e250cb5755 ""
+  "C:/Users/hikev/AppData/Local/Programs/MiKTeX1/tex/generic/hyph-utf8/patterns/tex/hyph-fr.tex" 1616419947 30353 4479446a11e1366b5a18e408bfbc3c19 ""
   "C:/Users/hikev/AppData/Local/Programs/MiKTeX1/tex/generic/iftex/ifluatex.sty" 1643997108 492 1994775aa15b0d1289725a0b1bbc2d4c ""
   "C:/Users/hikev/AppData/Local/Programs/MiKTeX1/tex/generic/iftex/iftex.sty" 1643997108 7237 bdd120a32c8fdb4b433cf9ca2e7cd98a ""
   "C:/Users/hikev/AppData/Local/Programs/MiKTeX1/tex/generic/iftex/ifxetex.sty" 1643997108 488 4565444a3e75e59cb2702dc42e18f482 ""
@@ -24,7 +26,7 @@
   "C:/Users/hikev/AppData/Local/Programs/MiKTeX1/tex/latex/l3packages/xparse/xparse.sty" 1655913260 6812 d2f733947d73940b228845829d585700 ""
   "C:/Users/hikev/AppData/Local/Programs/MiKTeX1/tex/lualatex/luainputenc/luainputenc.sty" 1290181657 6248 ceeaee07c710940f3ede6f9cc8a61680 ""
   "c:/Users/hikev/Desktop/resume/cv.tex" 1659689354 1221 04d1721ab5989bdc81c4bb2e0dd97d3c ""
-  "cv.aux" 1659690115 34 3985256e7290058c681f74d7a3565a19 ""
+  "cv.aux" 1659692694 34 3985256e7290058c681f74d7a3565a19 ""
   "cv.tex" 1659689354 1221 04d1721ab5989bdc81c4bb2e0dd97d3c ""
   "yaac-another-awesome-cv.cls" 1659626338 12615 5400df6fdab13bd3e368cc9ae0d04eb4 ""
   (generated)
