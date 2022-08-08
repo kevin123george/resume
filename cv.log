@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (MiKTeX 22.3) (format=lualatex-dev 2022.8.4)  5 AUG 2022 15:46
+This is LuaHBTeX, Version 1.15.0 (MiKTeX 22.3) (format=lualatex-dev 2022.8.4)  8 AUG 2022 14:38
  restricted system commands enabled.
 **./cv.tex
 (./cv.tex
@@ -1232,7 +1232,7 @@ Package luatex.def Info: profile.jpg  used on input line 28.
 (luatex.def)             Requested size: 610.2785pt x 610.2785pt.
 (./section_headline.tex) (./section_competences.tex)
 (./section_experience_short.tex
-Overfull \hbox (4.48311pt too wide) in alignment at lines 14--122
+Overfull \hbox (4.48311pt too wide) in alignment at lines 14--128
  [][] 
  []
 
@@ -1301,15 +1301,15 @@ Here is how much of LuaTeX's memory you used:
  701 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 8 glue, 3 kern, 1 penalty, 2 glyph, 61 attribute, 6
 9 glue_spec, 10 attribute_list, 2 write nodes
-   avail lists: 1:5,2:13503,3:2991,4:202,5:1294,6:163,7:9608,8:31,9:1836,10:37,1
-1:675
+   avail lists: 1:1,2:13438,3:2988,4:202,5:1531,6:160,7:10655,8:31,9:1806,10:37,
+11:807
  50775 multiletter control sequences out of 65536+600000
  53 fonts using 8126911 bytes
  115i,12n,111p,1192b,974s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <./fonts/SourceSansPro-LightIt.otf><C:/Users/hikev/AppData/Local/Programs/MiKTeX
 1/fonts/opentype/public/fontawesome/fontawesome.otf><./fonts/SourceSansPro-Regul
 ar.otf><./fonts/SourceSansPro-Light.otf>
-Output written on cv.pdf (2 pages, 96531 bytes).
+Output written on cv.pdf (2 pages, 96288 bytes).
 
 PDF statistics: 68 PDF objects out of 1000 (max. 8388607)
  13 named destinations out of 1000 (max. 131072)
